@@ -1,0 +1,2 @@
+## Structs Challenge
+In this CodeStory, we're exploring the concept of structs in Go. Your task is to define a struct called `Person` with the following fields: `Name`, `Age`, and `Country`. After defining the struct, create an instance of the `Person` struct with some values and print it to the console.
